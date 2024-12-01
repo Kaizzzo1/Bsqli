@@ -19,6 +19,6 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/coffinsp/customBsqli.git
+   git clone https://github.com/Kaizzzo1/Bsqli.git
    cd customBsqli
    python lostsec.py
